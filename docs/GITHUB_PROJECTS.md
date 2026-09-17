@@ -12,6 +12,15 @@ portfolio 首页仅作为工具导航。源码开发、问题反馈和后续版�
 | 拾影 VideoCatch | [video-catch](https://github.com/turnsolesama/video-catch) | [Releases](https://github.com/turnsolesama/video-catch/releases) |
 | 映序 YingXu | [yingxu](https://github.com/turnsolesama/yingxu) | [Releases](https://github.com/turnsolesama/yingxu/releases) |
 
+## 个人娱乐创作
+
+| 作品 | 独立仓库 | 版本页 |
+| --- | --- | --- |
+| 枣子姐桌宠 NatsumePet | [codex-pet](https://github.com/turnsolesama/codex-pet) | [Releases](https://github.com/turnsolesama/codex-pet/releases) |
+| 米雪儿桌宠 MichellePet | [michelle-pet](https://github.com/turnsolesama/michelle-pet) | [v0.2.2](https://github.com/turnsolesama/michelle-pet/releases/tag/v0.2.2) |
+
+米雪儿桌宠当前为图片动画，键鼠敲击与真正 Live2D 仍为计划，未包含在 v0.2.2 中。
+
 ## 历史保留
 
 迁移前的来源提交为 [`35ecc7e17cb9053279ecc422c3a577f5dafa5104`](https://github.com/turnsolesama/portfolio/commit/35ecc7e17cb9053279ecc422c3a577f5dafa5104)。原有源码文件、历史 Release 与原始下载地址均保留，避免旧链接失效；历史源码目录不再作为新版本开发入口。迁移是公开源码的独立快照，旧提交历史仍在 portfolio 可查。
