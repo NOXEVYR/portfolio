@@ -27,7 +27,7 @@ ClassicDesk 当前公开包用于方案编辑与界面预览，真实系统增�
 | 类型 | 作品 | 介绍 | 版本 |
 | --- | --- | --- | --- |
 | Windows 桌宠 | [枣子姐桌宠 NatsumePet](https://github.com/turnsolesama/codex-pet) | 《星光咖啡馆与死神之蝶》四季夏目 Q 版桌宠：五套服装换装、按部位点击互动、拖拽回弹与边缘收纳探头 | [v0.4.1 下载](https://github.com/turnsolesama/codex-pet/releases/tag/v0.4.1) |
-| Windows 桌宠 | [米雪儿桌宠 MichellePet](https://github.com/turnsolesama/michelle-pet) | 《卡拉彼丘》米雪儿 Q 版同人桌宠：四套服装、点击互动、睡眠与左右贴墙探头 | [v0.2.2 下载](https://github.com/turnsolesama/michelle-pet/releases/tag/v0.2.2) |
+| Windows 桌宠 | [米雪儿桌宠 MichellePet](https://github.com/turnsolesama/michelle-pet) | 《卡拉彼丘》米雪儿 Q 版同人桌宠：四套服装、贴墙探头；经典制服键鼠游戏搭子、通用打字反馈与自由摆放 | [v0.3.2 下载](https://github.com/turnsolesama/michelle-pet/releases/tag/v0.3.2) |
 
 <details>
 <summary>旧版本与迁移说明</summary>
