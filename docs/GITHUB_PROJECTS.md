@@ -17,9 +17,9 @@ portfolio 首页仅作为工具导航。源码开发、问题反馈和后续版�
 | 作品 | 独立仓库 | 版本页 |
 | --- | --- | --- |
 | 枣子姐桌宠 NatsumePet | [codex-pet](https://github.com/turnsolesama/codex-pet) | [Releases](https://github.com/turnsolesama/codex-pet/releases) |
-| 米雪儿桌宠 MichellePet | [michelle-pet](https://github.com/turnsolesama/michelle-pet) | [v0.3.2](https://github.com/turnsolesama/michelle-pet/releases/tag/v0.3.2) |
+| 米雪儿桌宠 MichelePet | [michelle-pet](https://github.com/turnsolesama/michelle-pet) | [v0.3.8](https://github.com/turnsolesama/michelle-pet/releases/tag/v0.3.8) |
 
-米雪儿桌宠 v0.3.2 已实现经典制服分层 2D 键鼠联动、未标注键位的通用打字反馈和自由摆放，保留四套普通桌宠服装与贴墙探头。真正的 Live2D 仍为后续计划。
+米雪儿桌宠 v0.3.8 支持中英双语，经典制服保留双马尾，宿舍原版长发与轻盈长发均保留，新增摸头、戳脸、加油和自动眨眼，采用修改版宿舍头像；搭子配有猫耳鼠标垫、圆角键帽、通用打字反馈及自由摆放。普通模式保留四套服装、睡眠与贴墙探头，当前为分层 2D 动画。
 
 ## 历史保留
 
