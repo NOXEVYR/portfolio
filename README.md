@@ -6,7 +6,7 @@
 
 | 主要用途 | 工具 | 适合用来做什么 | 版本 |
 | --- | --- | --- | --- |
-| 桌面修改 | [ClassicDesk](https://github.com/turnsolesama/classicdesk) | 编辑 Windows 任务栏、资源管理器与右键菜单的修改方案；当前为预览版 | [0.6.0 预览版](https://github.com/turnsolesama/classicdesk/releases/tag/v0.6.0-preview) |
+| 桌面修改 | [ClassicDesk](https://github.com/turnsolesama/classicdesk) | 编辑 Windows 任务栏、资源管理器与右键菜单的修改方案；当前为预览版 | [0.10.0 预览版](https://github.com/turnsolesama/classicdesk/releases/tag/v0.10.0-preview) |
 | AI 资产 / 项目管理 | [映序 YingXu](https://github.com/turnsolesama/yingxu) | 按创作项目整理素材、文稿、角色与分镜，跟踪制作进度 | [下载与更新](https://github.com/turnsolesama/yingxu/releases) |
 | AI 生成画布 | [FrameWeave](https://github.com/turnsolesama/frameweave) | 在画布中编排图片与视频生成，发现并检查本地 ComfyUI 环境 | [下载与更新](https://github.com/turnsolesama/frameweave/releases) |
 | AI 模型 / 资源管理 | [AI Hub](https://github.com/turnsolesama/ai-hub) | 集中管理本地模型、LoRA、工作流与出图库，关联运行记录 | [下载与更新](https://github.com/turnsolesama/ai-hub/releases) |
