@@ -4,6 +4,7 @@ portfolio 首页仅作为工具导航。源码开发、问题反馈和后续版�
 
 | 工具 | 独立仓库 | 版本页 |
 | --- | --- | --- |
+| 环境锚点 EnvAnchor | [env-anchor](https://github.com/turnsolesama/env-anchor) | [v0.5.0](https://github.com/turnsolesama/env-anchor/releases/tag/v0.5.0) |
 | ClassicDesk | [classicdesk](https://github.com/turnsolesama/classicdesk) | [Releases](https://github.com/turnsolesama/classicdesk/releases) |
 | AI Hub | [ai-hub](https://github.com/turnsolesama/ai-hub) | [Releases](https://github.com/turnsolesama/ai-hub/releases) |
 | Codex Switcher | [codex-switcher](https://github.com/turnsolesama/codex-switcher) | [Releases](https://github.com/turnsolesama/codex-switcher/releases) |
