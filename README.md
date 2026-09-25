@@ -13,7 +13,7 @@
 | AI 模型 / 资源管理 | [AI Hub](https://github.com/turnsolesama/ai-hub) | 集中管理本地模型、LoRA、工作流与出图库，关联运行记录 | [下载与更新](https://github.com/turnsolesama/ai-hub/releases) |
 | API 切换 | [Codex Switcher](https://github.com/turnsolesama/codex-switcher) | 切换 Codex 使用的 API 服务、接口地址和模型配置 | [下载与更新](https://github.com/turnsolesama/codex-switcher/releases) |
 | 网络代理管理 | [流向 FlowSwitch](https://github.com/turnsolesama/proxy-switch) | 切换代理出口，管理程序分流与本地网关 | [下载与更新](https://github.com/turnsolesama/proxy-switch/releases) |
-| 网页视频捕获 | [拾影 VideoCatch](https://github.com/turnsolesama/video-catch) | 监听浏览器媒体请求，提取视频地址并下载 | [下载与更新](https://github.com/turnsolesama/video-catch/releases) |
+| 视频捕获 / 片段裁剪 | [拾影 VideoCatch](https://github.com/NOXEVYR/video-catch) | 捕获并下载网页视频，精确裁剪本地片段，支持 AI 助手通过本机接口控制 | [0.4.2 下载](https://github.com/NOXEVYR/video-catch/releases/tag/v0.4.2) |
 
 **映序与 AI Hub 怎么选：** 围绕一部作品或一个创作项目整理素材、文稿和进度，选映序；整理跨项目使用的模型、LoRA、工作流与出图库，选 AI Hub。两者有部分重叠，这里按主要使用场景区分。
 
