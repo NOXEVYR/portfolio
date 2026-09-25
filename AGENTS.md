@@ -1,11 +1,13 @@
 # 当前仓库职责：工具总入口
 
-- 工具介绍以实际用途和已实现范围为准：映序侧重创作项目与素材，AI Hub 侧重模型与资源库；FrameWeave 是图片/视频生成画布并提供本地 ComfyUI 环境检查；Codex Switcher 是 API 切换工具。不要把环境检查泛称为全机实时监控。
+- 工具介绍以实际用途和已实现范围为准：映序侧重创作项目与素材，曜核（原 AI Hub）侧重模型与资源库；棱光 PrismCanvas（原 FrameWeave）是图片/视频生成画布并提供本地 ComfyUI 环境检查；Codex Switcher 是 API 切换工具。不要把环境检查泛称为全机实时监控。
 
 - 自 2026-09-12 起，每个工具在独立仓库开发与发布；映射见 docs/GITHUB_PROJECTS.md。用户已选择独立仓库方案，本段优先于下方旧的单仓库布局说明。
 - 本仓库仅维护导航、历史说明与兼容下载。不要向这里继续发布应用新版本。
 - 旧应用目录与 releases 文件保留以兼容已有链接；修改业务代码应进入相应独立仓库，不在存档目录继续开发。
 - 旧提交与历史 Release 不删除，不强制改写历史。保持现有 main 原始下载地址可用。
+
+- 更新软件品牌时，同步首页、`docs/GITHUB_PROJECTS.md`、对应迁移入口和 `docs/assets/icons/`；记录来源。旧源码、历史发布和兼容路径保持原名。导航下载链接优先指向独立项目 README，分别核对本机版本与公开发行版。
 
 ---
 
@@ -20,3 +22,4 @@
 - Documentation-only changes require link/package verification, not application startup or changes to real user settings.
 - Follow each application's nearest AGENTS.md for its build and test commands. Never publish local galleries, weights, credentials, databases, proxy rules, or personal configuration.
 - User-facing project categories: Local AI Systems (FrameWeave in `frameweave/`, keeping a standalone project structure), Asset Management Systems (YingXu and AI Hub), Tools (Codex Switcher, FlowSwitch, and VideoCatch). Preserve physical paths and existing download URLs when changing category navigation.
+

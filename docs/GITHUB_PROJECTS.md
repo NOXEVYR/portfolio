@@ -1,35 +1,32 @@
-# 独立项目与历史入口
+# 独立项目、当前名称与历史入口
 
-portfolio 首页仅作为工具导航。源码开发、问题反馈和后续版本发布分别进入以下独立仓库。
+portfolio 是软件总入口；开发、问题反馈和后续版本发布均进入独立仓库。[个人网站](https://noxevyr.github.io/) 展示预览与介绍。
 
-| 工具 | 独立仓库 | 版本页 |
+## 当前名称对应
+
+| 当前显示名 | 旧名称或兼容标识 | 独立项目与下载说明 |
 | --- | --- | --- |
-| 环境锚点 EnvAnchor | [env-anchor](https://github.com/turnsolesama/env-anchor) | [v0.6.0](https://github.com/turnsolesama/env-anchor/releases/tag/v0.6.0) |
-| ClassicDesk | [classicdesk](https://github.com/turnsolesama/classicdesk) | [Releases](https://github.com/turnsolesama/classicdesk/releases) |
-| AI Hub | [ai-hub](https://github.com/turnsolesama/ai-hub) | [Releases](https://github.com/turnsolesama/ai-hub/releases) |
-| Codex Switcher | [codex-switcher](https://github.com/turnsolesama/codex-switcher) | [Releases](https://github.com/turnsolesama/codex-switcher/releases) |
-| FrameWeave | [frameweave](https://github.com/turnsolesama/frameweave) | [Releases](https://github.com/turnsolesama/frameweave/releases) |
-| 流向 FlowSwitch | [proxy-switch](https://github.com/turnsolesama/proxy-switch) | [Releases](https://github.com/turnsolesama/proxy-switch/releases) |
-| 拾影 VideoCatch | [video-catch](https://github.com/turnsolesama/video-catch) | [Releases](https://github.com/turnsolesama/video-catch/releases) |
-| 映序 YingXu | [yingxu](https://github.com/turnsolesama/yingxu) | [Releases](https://github.com/turnsolesama/yingxu/releases) |
+| 映序 YingXu | `yingxu` | [yingxu](https://github.com/NOXEVYR/yingxu#readme) |
+| 棱光 PrismCanvas（原 FrameWeave） | `FrameWeave / 帧织` | [frameweave](https://github.com/NOXEVYR/frameweave#readme) |
+| 曜核（原 AI Hub） | `AI Hub` | [ai-hub](https://github.com/NOXEVYR/ai-hub#readme) |
+| Codex Switcher | `codex-switcher` | [codex-switcher](https://github.com/NOXEVYR/codex-switcher#readme) |
+| 流向 FlowSwitch | `proxy-switch` | [proxy-switch](https://github.com/NOXEVYR/proxy-switch#readme) |
+| 拾影 VideoCatch | `video-catch` | [video-catch](https://github.com/NOXEVYR/video-catch#readme) |
+| 环境锚点 EnvAnchor | `env-anchor` | [env-anchor](https://github.com/NOXEVYR/env-anchor#readme) |
+| ClassicDesk | `classicdesk` | [classicdesk](https://github.com/NOXEVYR/classicdesk#readme) |
+| 枣子姐桌宠 NatsumePet | `codex-pet` | [codex-pet](https://github.com/NOXEVYR/codex-pet#readme) |
+| 米雪儿桌宠 Michele Desktop Pet | `MichelePet` | [michelle-pet](https://github.com/NOXEVYR/michelle-pet#readme) |
 
-## 个人娱乐创作
+目录名和仓库地址是兼容标识，显示名称按最新确认品牌维护。图标来源和本次核对记录见 [图标来源](assets/ICON_SOURCES.md)。
 
-| 作品 | 独立仓库 | 版本页 |
-| --- | --- | --- |
-| 枣子姐桌宠 NatsumePet | [codex-pet](https://github.com/turnsolesama/codex-pet) | [Releases](https://github.com/turnsolesama/codex-pet/releases) |
-| 米雪儿桌宠 MichelePet | [michelle-pet](https://github.com/turnsolesama/michelle-pet) | [v0.3.8](https://github.com/turnsolesama/michelle-pet/releases/tag/v0.3.8) |
-
-米雪儿桌宠 v0.3.8 支持中英双语，经典制服保留双马尾，宿舍原版长发与轻盈长发均保留，新增摸头、戳脸、加油和自动眨眼，采用修改版宿舍头像；搭子配有猫耳鼠标垫、圆角键帽、通用打字反馈及自由摆放。普通模式保留四套服装、睡眠与贴墙探头，当前为分层 2D 动画。
+截至 2026-09-25：棱光公开版为 PrismCanvas 0.5.0；曜核名称与图标已确认，但公开发行包仍为 AI Hub 2.6.0。源码版本、本机安装版本和公开可下载版本分别核对，不将它们混写。
 
 ## 历史保留
 
-迁移前的来源提交为 [`35ecc7e17cb9053279ecc422c3a577f5dafa5104`](https://github.com/turnsolesama/portfolio/commit/35ecc7e17cb9053279ecc422c3a577f5dafa5104)。原有源码文件、历史 Release 与原始下载地址均保留，避免旧链接失效；历史源码目录不再作为新版本开发入口。迁移是公开源码的独立快照，旧提交历史仍在 portfolio 可查。
+迁移前的来源提交为 [`35ecc7e17cb9053279ecc422c3a577f5dafa5104`](https://github.com/NOXEVYR/portfolio/commit/35ecc7e17cb9053279ecc422c3a577f5dafa5104)。旧源码、提交、Release 与安装包路径继续保留；旧目录不再作为新版本开发入口。
 
-六个既有工具的独立版本页提供原始程序包链接，本次没有重新构建或重复上传大型历史安装包。ClassicDesk 的新前端包和源码包已直接发布在自己的预览 Release。
+部分独立仓库的早期版本页仍链接 portfolio 历史包，这些兼容入口保持有效。当前下载优先从独立项目 README 进入，避免误入旧的迁移说明页。
 
 ## 发布归属
 
-映序的发布工作流已迁入 yingxu 独立仓库，调整为手动触发；本次没有运行构建或下载大型运行环境。portfolio 的旧自动发布工作流停用并保留原文件，后续版本不应再发布到工具总入口。
-
-portfolio 右侧的最新发布为工具导航，旧版本仍在历史列表中，不删除或改写它们。
+映序等软件在各自独立仓库发布。portfolio 只更新导航、品牌展示和兼容说明，不在这里发布新的应用版本；既有停用工作流、历史程序包及校验文件不作改动。
