@@ -7,11 +7,11 @@ portfolio 是软件总入口；开发、问题反馈和后续版本发布均进�
 | 当前显示名 | 旧名称或兼容标识 | 独立项目与下载说明 |
 | --- | --- | --- |
 | 映序 YingXu | `yingxu` | [yingxu](https://github.com/NOXEVYR/yingxu#readme) |
-| 棱光 PrismCanvas（原 FrameWeave） | `FrameWeave / 帧织` | [frameweave](https://github.com/NOXEVYR/frameweave#readme) |
-| 曜核（原 AI Hub） | `AI Hub` | [主线说明与下载](https://github.com/NOXEVYR/ai-hub#readme) |
+| 棱光 PrismCanvas（原 FrameWeave） | `FrameWeave / 帧织` | [当前说明](https://github.com/NOXEVYR/frameweave#readme) · [最新公开版](https://github.com/NOXEVYR/frameweave/releases/latest) |
+| 曜核（原 AI Hub） | `AI Hub` | [当前说明](https://github.com/NOXEVYR/ai-hub#readme) · [最新公开版](https://github.com/NOXEVYR/ai-hub/releases/latest) |
 | Codex Switcher | `codex-switcher` | [codex-switcher](https://github.com/NOXEVYR/codex-switcher#readme) |
 | 流向 FlowSwitch | `proxy-switch` | [proxy-switch](https://github.com/NOXEVYR/proxy-switch#readme) |
-| 拾影 VideoCatch | `video-catch` | [video-catch](https://github.com/NOXEVYR/video-catch#readme) |
+| 拾影 VideoCatch | `video-catch` | [当前说明](https://github.com/NOXEVYR/video-catch#readme) · [最新公开版](https://github.com/NOXEVYR/video-catch/releases/latest) |
 | 环境锚点 EnvAnchor | `env-anchor` | [env-anchor](https://github.com/NOXEVYR/env-anchor#readme) |
 | ClassicDesk | `classicdesk` | [classicdesk](https://github.com/NOXEVYR/classicdesk#readme) |
 | 枣子姐桌宠 NatsumePet | `codex-pet` | [codex-pet](https://github.com/NOXEVYR/codex-pet#readme) |
@@ -19,7 +19,7 @@ portfolio 是软件总入口；开发、问题反馈和后续版本发布均进�
 
 目录名和仓库地址是兼容标识，显示名称按最新确认品牌维护。图标来源和本次核对记录见 [图标来源](assets/ICON_SOURCES.md)。
 
-截至 2026-09-25，棱光公开版为 PrismCanvas 0.5.0。曜核是 AI Hub 优化改名后的同一款软件，当前功能、版本与下载以 [独立仓库](https://github.com/NOXEVYR/ai-hub#readme) 为准。portfolio 的 `ai-hub/` 旧目录及旧程序包仅作历史存档，不作为推荐下载。
+截至 2026-09-27，棱光当前公开 Windows 包为 PrismCanvas 0.11.1；0.11.2 仍是源码预览，没有对应的 Windows 安装包。下载入口以[最新公开版](https://github.com/NOXEVYR/frameweave/releases/latest)为准。曜核是 AI Hub 优化改名后的同一款软件，当前功能与版本见[独立仓库说明](https://github.com/NOXEVYR/ai-hub#readme)，当前公开下载见[最新公开版](https://github.com/NOXEVYR/ai-hub/releases/latest)。portfolio 的 `ai-hub/` 旧目录及旧程序包仅作历史存档，不作为推荐下载。
 
 ## 历史保留
 
