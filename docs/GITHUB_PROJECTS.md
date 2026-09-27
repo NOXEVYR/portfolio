@@ -8,7 +8,7 @@ portfolio 是软件总入口；开发、问题反馈和后续版本发布均进�
 | --- | --- | --- |
 | 映序 YingXu | `yingxu` | [yingxu](https://github.com/NOXEVYR/yingxu#readme) |
 | 棱光 PrismCanvas（原 FrameWeave） | `FrameWeave / 帧织` | [frameweave](https://github.com/NOXEVYR/frameweave#readme) |
-| 曜核（原 AI Hub） | `AI Hub` | [ai-hub](https://github.com/NOXEVYR/ai-hub#readme) |
+| 曜核（原 AI Hub） | `AI Hub` | [主线说明与下载](https://github.com/NOXEVYR/ai-hub#readme) |
 | Codex Switcher | `codex-switcher` | [codex-switcher](https://github.com/NOXEVYR/codex-switcher#readme) |
 | 流向 FlowSwitch | `proxy-switch` | [proxy-switch](https://github.com/NOXEVYR/proxy-switch#readme) |
 | 拾影 VideoCatch | `video-catch` | [video-catch](https://github.com/NOXEVYR/video-catch#readme) |
@@ -19,7 +19,7 @@ portfolio 是软件总入口；开发、问题反馈和后续版本发布均进�
 
 目录名和仓库地址是兼容标识，显示名称按最新确认品牌维护。图标来源和本次核对记录见 [图标来源](assets/ICON_SOURCES.md)。
 
-截至 2026-09-25：棱光公开版为 PrismCanvas 0.5.0；曜核名称与图标已确认，但公开发行包仍为 AI Hub 2.6.0。源码版本、本机安装版本和公开可下载版本分别核对，不将它们混写。
+截至 2026-09-25，棱光公开版为 PrismCanvas 0.5.0。曜核是 AI Hub 优化改名后的同一款软件，当前功能、版本与下载以 [独立仓库](https://github.com/NOXEVYR/ai-hub#readme) 为准。portfolio 的 `ai-hub/` 旧目录及旧程序包仅作历史存档，不作为推荐下载。
 
 ## 历史保留
 
